@@ -1,0 +1,72 @@
+div {
+  margin: auto auto;
+  width: 750px;
+  height: 150px;
+  outline: 1px black;
+  text-align: center;
+  background-color: rgb(12, 108, 199);
+  border-radius: 8px;
+}
+input {
+  margin: 20px;
+  border-radius: 4px;
+  width: 100px;
+  height: 30px;
+  background-color: #43b4ff;
+  font-family: "Genos", sans-serif;
+  font-size: 25px;
+}
+
+label {
+  font-size: 30px;
+  color: #ffffff;
+  margin-right: 10px;
+  font-family: "Genos", sans-serif;
+}
+p {
+  width: 130px;
+  height: 40px;
+  font-size: 17px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100px;
+  background-color: #00a690;
+  display: inline-block;
+  font-family: "Genos", sans-serif;
+}
+p:hover {
+  color: #43b4ff;
+  border: 0.1px solid rgb(255, 255, 255);
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+button {
+  width: 130px;
+  height: 40px;
+  margin-left: 730px;
+  font-size: 17px;
+  border: none;
+  border-radius: 4px;
+  display: inline-block;
+  background-color: #00a690;
+  color: #fff;
+  font-size: 14px;
+  padding: 13 px;
+  border-radius: 6 px;
+}
+button:hover {
+  color: #ffffff;
+  border: 0.1px solid rgb(255, 255, 255);
+  cursor: pointer;
+  border-radius: 6px;
+}
+select {
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  margin-top: 18px;
+  background-color: #01ffff;
+}
